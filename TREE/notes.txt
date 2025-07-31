@@ -1,0 +1,21 @@
+Binary tree
+
+- Non Linear datastructure
+-GT- Generic tree
+-BT- Binary tree (hum to and hmare atmax 2)
+-BST- Binary SearchTree
+-PT- Prefix tree
+-CPT- Common prefix tree
+-CBT- Common Binary tree
+
+Input -
+10 true 20 true
+70 false false false
+true 50 false true
+80 false false 
+
+
+true - child exist krta h 
+false - nhi krta h
+
+10 true - root pehle left subtree and then right subtree
