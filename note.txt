@@ -1,0 +1,3 @@
+Heap and priority queue --> same when he try to slve question but actually both are different
+
+Queue  --> FIFO 
