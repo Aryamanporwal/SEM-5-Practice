@@ -1,0 +1,4 @@
+                Map 
+    HashMap , TreeMap , Linked HashMap
+
+HashMap = key , value pair (key = unique , value = can be duplicate)
