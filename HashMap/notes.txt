@@ -2,3 +2,11 @@
     HashMap , TreeMap , Linked HashMap
 
 HashMap = key , value pair (key = unique , value = can be duplicate)
+
+
+
+Threshold factor = 1 bucket m min kitne element hai ? 2.0
+Load Factor = Size / bucket size = 3.0
+LF> THF   (rehashing)
+
+HashCode = Numerical value of range -2^31 to 2^31-1
