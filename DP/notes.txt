@@ -1,0 +1,10 @@
+DP is not a Data Structure
+ 
+
+ how to identify the question is of DP?
+ -> Problem Overlapping
+
+To solve DP : there are two approaches ====>>>>>>>>>>
+ -> Top-down -> Recursive approach
+ -> Bottom-Up - Iterative approach 
+ 

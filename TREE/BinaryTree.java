@@ -1,4 +1,3 @@
-package TREE;
 import java.util.*;
 public class BinaryTree {
     class Node{
